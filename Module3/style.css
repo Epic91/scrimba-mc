@@ -45,11 +45,17 @@ button {
     margin: 10px 0 0;
 }
 
-.emoji-container {
+/* Ids */
 
+#emoji-container {
+    margin: 40px;
+    text-align: center;
 }
 
-/* Ids */
+#emoji-container span {
+    margin: 10px;
+    font-size: 60px;
+}
 
 #push-btn, #unshift-btn {
     background-color: #80D87F;
