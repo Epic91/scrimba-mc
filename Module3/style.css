@@ -42,7 +42,7 @@ button {
 .buttons-wrapper {
     display: flex;
     justify-content: center;
-    margin: 10px 0 40px;
+    margin: 10px 0 0;
 }
 
 .emoji-container {
