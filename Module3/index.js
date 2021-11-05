@@ -7,7 +7,6 @@ const unshiftBtn = document.getElementById("unshift-btn");
 const shiftBtn = document.getElementById("shift-btn");
 const popBtn = document.getElementById("pop-btn");
 
-// functions
 
 function renderEmojis() {
     emojiContainer.innerHTML = "";
